@@ -1,0 +1,76 @@
+grf 1k
+1 to 100:
+The lowest distance between the two nodes is:  6
+
+100
+	624
+		699
+			175
+				487
+					5
+						1
+100 to 1:
+
+The lowest distance between the two nodes is:  5
+
+1
+	109
+		865
+			354
+				416
+					100
+
+grf 10k
+1 to 100
+The lowest distance between the two nodes is:  8
+
+100
+	5173
+		9794
+			5359
+				6311
+					523
+						2607
+							3300
+								1
+
+100 to 1
+
+The lowest distance between the two nodes is:  7
+
+1
+	7151
+		2478
+			8217
+				5232
+					3054
+						2398
+							100
+
+grf 100k
+1 to 100
+The lowest distance between the two nodes is:  8
+
+100
+	14973
+		32753
+			4156
+				3075
+					14969
+						27471
+							17024
+								1
+
+100 to 1
+
+The lowest distance between the two nodes is:  8
+
+1
+	58288
+		98655
+			95930
+				53263
+					6606
+						54527
+							44340
+								100
